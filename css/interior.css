@@ -1,0 +1,36 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+body{
+    background-color: lightblue;
+}
+img{
+    border: 1px solid black;
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+#bank{
+    height: 30%;
+    width: 30%;
+    float: left;
+}
+p{
+    height: 3px;
+    width: 260px;
+    float: right;
+    display: block;
+}
+h3{
+    float: right;
+    padding-left: 20px;
+    margin-right: 20px;
+}
